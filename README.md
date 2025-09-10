@@ -27,7 +27,7 @@ A modern, feature-rich web application for converting images between different f
 
 ## 🚀 Live Demo
 
-[**Try it now!**](https://yourusername.github.io/image-convert) ← Replace with your GitHub Pages URL
+[**Try it now!**](http://michaeljohnpena.com/image-convert/)
 
 ## 📸 Screenshots
 
@@ -48,7 +48,7 @@ Simply visit the live demo link above - no installation required!
 ### Local Development
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/image-convert.git
+   git clone https://github.com/mjtpena/image-convert.git
    cd image-convert
    ```
 
@@ -162,10 +162,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Demo**: [Live Application](https://yourusername.github.io/image-convert)
-- **Repository**: [GitHub](https://github.com/yourusername/image-convert)
-- **Issues**: [Bug Reports](https://github.com/yourusername/image-convert/issues)
-- **Discussions**: [Feature Requests](https://github.com/yourusername/image-convert/discussions)
+- **Demo**: [Live Application](http://michaeljohnpena.com/image-convert/)
+- **Repository**: [GitHub](https://github.com/mjtpena/image-convert)
+- **Issues**: [Bug Reports](https://github.com/mjtpena/image-convert/issues)
+- **Discussions**: [Feature Requests](https://github.com/mjtpena/image-convert/discussions)
 
 ---
 
